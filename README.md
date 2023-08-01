@@ -1,8 +1,5 @@
 # Gold-Price-Prediction
 
-Hello @everyone,
-Excited to share my latest project.
-
 📈 Exciting Machine Learning Project! Predicting Gold Prices with Data 🚀
 
 Summary: 
